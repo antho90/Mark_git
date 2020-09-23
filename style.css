@@ -1,0 +1,72 @@
+
+
+
+
+*{
+  list-style: none;
+}
+
+
+nav{
+  position: fixed;
+  right: 2rem;
+  top: 2rem;
+}
+
+
+
+.nav-container {
+  display: inline-block;
+}
+
+
+
+
+.line{
+
+width: 40px;
+height: 6px;
+background-color: black;
+margin: 6px 0;
+}
+
+
+
+header {
+
+    background-image: url('C3eOS3DFQgGkcuEXMulZ_IMG_2033.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    }
+    .marge {
+        margin-top: 40%;
+        
+      }
+
+      .marge2 {
+        margin-top: 15%;
+      }
+
+     
+      .btm-navigation {
+
+        position: absolute;
+        right: 30px;
+        top: 30px;
+        cursor: pointer;      
+      }
+
+
+      .btm-navigation .barre{
+width: 30px;
+height: 3px;
+background: #333;
+margin-top: 3px;
+
+
+
+      }
+
+    
+      
